@@ -1,6 +1,5 @@
 # Invisibility-Cloak
-
- Once you run the code, let the webcam capture the background image then you can come inside the frame with your magical Red Cloak and be Invisible ✨
+Once you run the code, let the webcam capture the background image then you can come inside the frame with your magical Red Cloak and be Invisible ✨
 
 ### **INSTALLATION**
 
